@@ -1,0 +1,17 @@
+function helloWorld(){
+    const number = 123;
+
+    console.log("Hello World");
+    console.log(number);
+}
+
+helloWorld();
+
+function add(a,b){
+    return a+b;
+}
+add(4+5);
+
+console.log("Test here!");
+
+console.log(add(5,3));
